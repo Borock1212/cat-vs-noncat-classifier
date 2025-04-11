@@ -56,6 +56,6 @@ Add your images to the corresponding folders.
 
 ---
 
-## Author: Oleksii Shevchenko
+## Author: Alex Shevchenko
 
 Created for educational purposes.
