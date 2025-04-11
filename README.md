@@ -48,11 +48,11 @@ Add your images to the corresponding folders.
 
 1. Install dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 2. Run the code:
 
-python main.py
+```python main.py```
 
 ---
 
