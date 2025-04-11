@@ -1,10 +1,19 @@
-# Cat vs Non-Cat Classifier
+# Cat vs Dogs Classifier
 
 Simple image classification project using Logistic Regression.
 
-The model predicts whether an image contains a cat or not.
+The model predicts whether an image contains a cat or a dog.
 
-## Technologies used
+---
+
+## Project Description
+
+This project demonstrates a basic machine learning approach for image classification.  
+The goal is to classify images as either containing a cat or a dog.
+
+---
+
+## Technologies Used
 
 - Python
 - NumPy
@@ -12,14 +21,41 @@ The model predicts whether an image contains a cat or not.
 - Pillow
 - TensorFlow Datasets
 
-## How to run
+---
+
+## Dataset
+
+This project uses a dataset of cat and dog images.
+
+You can use any dataset of your choice (for example from Kaggle)  
+or create your own images and place them into the `datasets/` folder.
+
+Recommended folder structure:
+
+datasets/ 
+├── train/ 
+  ├── cats/ 
+  └── dogs/ 
+├── test/ 
+  ├── cats/ 
+  └── dogs/
+
+Add your images to the corresponding folders.
+
+---
+
+## How to Run
 
 1. Install dependencies:
 
 pip install -r requirements.txt
 
-css
-Копировать
-Редактировать
-
 2. Run the code:
+
+python main.py
+
+---
+
+## Author: Oleksii Shevchenko
+
+Created for educational purposes.
