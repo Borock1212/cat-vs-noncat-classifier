@@ -1,5 +1,5 @@
 """
-Author: Oleksii Shevchenko
+Author: Alex Shevchenko
 Project: Deep Neural Network from scratch in NumPy
 Description: This project implements a two-layer and L-layer feedforward neural network 
              using NumPy only, with forward/backward propagation, cost computation, parameter updates,
